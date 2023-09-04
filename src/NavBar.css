@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  background-color: #e9edfc;
+  list-style: none;
+  padding: 5em;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  padding: 1%;
+}

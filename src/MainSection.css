@@ -1,0 +1,10 @@
+img {
+  width: 40em;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
